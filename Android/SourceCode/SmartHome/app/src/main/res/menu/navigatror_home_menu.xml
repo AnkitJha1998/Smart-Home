@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Groceries" android:id="@+id/groceries" android:icon="@drawable/ic_local_grocery_store_black_24dp"/>
+    <item android:title="About" android:id="@+id/about_us" android:icon="@drawable/ic_people_outline_black_24dp" />
+    <item android:title="Log Out" android:id="@+id/log_out" android:icon="@drawable/ic_exit_to_app_black_24dp" />
+
+
+</menu>

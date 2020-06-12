@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name = "about_us1">This app is a part of Smart Home Project. We here are using Android App as a part of Client End to control the Home appliances. Here for demo purpose, We are controlling 3 lights, ! Refrigerator and 1 AC.</string>
+    <string name = "about_us2">This project is made by Ankit Jha and Shubham Srivastava, fourth year B.Tech students of SRM Institute of Science and Technology. This was submitted on May 2020. This project was completed under the Guidance of Dr. D Rajeswari, Department of Computer Science.</string>
+</resources>
