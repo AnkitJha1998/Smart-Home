@@ -5,7 +5,7 @@ Here in this project, we aim to control home appliances using our Android App. I
 
 ## Arduino
 
-Arduino is simplest to implement. For that just go to the Arduino Site and download suitable arduino [here](https://www.arduino.cc/en/main/software). Then After installations, load up the SerialCom.ino File. 
+Arduino is simplest to implement. For that just go to the Arduino Site and download suitable arduino IDE [here](https://www.arduino.cc/en/main/software). Then After installations, load up the SerialCom.ino File. 
 
 ![arduinoSerialCom](https://user-images.githubusercontent.com/37044020/84524005-dabd6900-acf6-11ea-8be3-f4cf4d44dc51.png)
 
