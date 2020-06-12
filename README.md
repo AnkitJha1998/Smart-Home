@@ -2,6 +2,14 @@
 
 Smart Home is a Major project of Mine for Partial fulfillment of B.Tech Degree in SRM Institute of Science and Technology. 
 Here in this project, we aim to control home appliances using our Android App. In order to do so we have devised 3 modules which are to be implemented successfully. The three modules need to be set up successfully.
+Below is the Architecture of a part of the final year project.
+
+![GithubUpload](https://user-images.githubusercontent.com/37044020/84534598-d9486c80-ad07-11ea-9245-1d55dd2e3126.jpg)
+
+<br>
+<br>
+
+
 
 ## Arduino
 
